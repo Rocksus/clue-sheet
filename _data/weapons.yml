@@ -1,33 +1,35 @@
 - name: Knife
   base: true
   emoji: 🔪
-  
+
 - name: Candlestick
   base: true
   emoji: 🕎
 
-- name: Revolver
+- name: Pistol
   base: true
   emoji: 🔫
+
+- name: Poison
+  base: true
+  emoji: 🏺
+
+- name: Trophy
+  base: true
+  emoji: 🏆
 
 - name: Rope
   base: true
   emoji: ⛓️
 
-- name: Lead Pipe
+- name: Bat
   base: true
-  emoji: 🦿
+  emoji: 🏏
 
-- name: Wrench
+- name: Axe
   base: true
-  emoji: 🔧
+  emoji: 🪓
 
-- name: Poison
-  base: false
-  edition: master
-  emoji: 🏺
-
-- name: Horseshoe
-  base: false
-  edition: master
-  emoji: 🐴
+- name: Dumbell
+  base: true
+  emoji: 🏋️
